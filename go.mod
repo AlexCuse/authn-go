@@ -1,4 +1,4 @@
-module github.com/keratin/authn-go
+module github.com/AlexCuse/authn-go
 
 go 1.12
 
